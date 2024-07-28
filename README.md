@@ -1,9 +1,9 @@
 ```
-                                         _____       _____ _            ____  _                 _ 
-                                        |_   _|__   |_   _| |__   ___  / ___|| |_ __ _ _ __ ___| |
-                                          | |/ _ \    | | | '_ \ / _ \ \___ \| __/ _` | '__/ __| |
-                                          | | (_) |   | | | | | |  __/  ___) | || (_| | |  \__ \_|
-                                          |_|\___/    |_| |_| |_|\___| |____/ \__\__,_|_|  |___(_)
+                                       _____       _____ _            ____  _                 _ 
+                                      |_   _|__   |_   _| |__   ___  / ___|| |_ __ _ _ __ ___| |
+                                        | |/ _ \    | | | '_ \ / _ \ \___ \| __/ _` | '__/ __| |
+                                        | | (_) |   | | | | | |  __/  ___) | || (_| | |  \__ \_|
+                                        |_|\___/    |_| |_| |_|\___| |____/ \__\__,_|_|  |___(_)
 
 ```
 
@@ -117,13 +117,13 @@
 
 <h2 align="left">Git Stats</h2>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnyyajie&show_icons=true&theme=dark&title_color=5f98c4&text_color=ffffff&bg_color=032d30&hide_border=true&locale=en&layout=compact" alt="sunnyyajie" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnyyajie&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sunnyyajie" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyyajie&show_icons=true&theme=dark&title_color=5f98c4&text_color=ffffff&bg_color=032d30&hide_border=true&locale=en" alt="sunnyyajie" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyyajie&show_icons=true&theme=dark&hide_border=true&locale=en" alt="sunnyyajie" />
 </p>
 <p> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyyajie&theme=dark" alt="sunnyyajie" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyyajie&theme=dark&hide_border=true&locale=en&layout=compact" alt="sunnyyajie" />
 </p>
 
 <br>
