@@ -14,6 +14,7 @@
 <h3 align="center">Aspiring Programmer/Developer from the Philippines</h3>
 
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sunnyyajie&label=%20Views&color=5f98c4&style=flat" alt="sunnyyajie" /> </p>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/43762/screenshots/1438974/media/2a87a13fdadaffa725137d051409f13a.gif">
