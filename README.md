@@ -107,26 +107,6 @@
 </p>
 
 <br>
-
-<h2 align="left">Git Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnyyajie" alt="sunnyyajie" /></a> </p>
-
-<br>
-<hr>
-<br>
-
-<h2 align="left">Git Stats</h2>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnyyajie&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sunnyyajie" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyyajie&show_icons=true&theme=dark&hide_border=true&locale=en" alt="sunnyyajie" />
-</p>
-<p> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyyajie&theme=dark&hide_border=true&locale=en&layout=compact" alt="sunnyyajie" />
-</p>
-
-<br>
 <hr>
 <br>
 
